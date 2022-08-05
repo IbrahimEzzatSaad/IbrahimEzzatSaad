@@ -1,13 +1,11 @@
 
-<div align="center">
-    <img src="https://f8n-production.s3.amazonaws.com/creators/profile/glf3qn30u-fnd-bg-man-outta-time-gif-l57y99.gif" alt="Logo" width="100%" height="400" />
-  </a>
-
+<img src="https://f8n-production.s3.amazonaws.com/creators/profile/glf3qn30u-fnd-bg-man-outta-time-gif-l57y99.gif" alt="Logo" width="100%" height="400" />
 
 
 <h1 align="center">Hi 👋, I'm Ibrahim Ezzat</h1>  
 <h3 align="center">A passionate Android Developer from Egypt!</h3>  
   
+- 🔭 I’m currently working on **Udacity - Nanodegree**  
   
 - 🌱 I’m currently learning **Android in Udacity - Nanodegree**  
   
@@ -22,8 +20,6 @@
   
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>  
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimezzatsaad&show_icons=true&locale=en&layout=compact" alt="ibrahimezzatsaad" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimezzatsaad&show_icons=true&locale=en" alt="ibrahimezzatsaad" /></p>  
   
