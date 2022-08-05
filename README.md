@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Ezzat</h1>  
 <h3 align="center">A passionate Android Developer from Egypt!</h3>  
   
-- 🔭 I’m currently working on **Udacity - Nanodegree**  
+- 🔭 I’m currently working on **Udacity - Nanodegree Projects & Personal educational projects**  
   
 - 🌱 I’m currently learning **Android in Udacity - Nanodegree**  
   
