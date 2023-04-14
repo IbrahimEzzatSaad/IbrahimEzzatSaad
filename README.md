@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>  
 <h3 align="center">A passionate Android Developer from Egypt!</h3>  
   
-- 🔭 I’m currently working on **Udacity - Nanodegree & Personal projects**  
+- 🔭 I’m currently working on **Personal projects**  
   
-- 🌱 I’m currently learning **Android in Udacity - Nanodegree**  
+- 🌱 I’m currently learning **Compose & Problem-Solving**  
   
-- 📫 How to reach me **hemaezzat2715@gmail.com**  
+- 📫 How to reach me **ibrahimezzat404@gmail.com**  
   
 - ⚡ Fun fact **I'm talkative social person around the people I share interests with! I would love to connect with you as well!**  
   
