@@ -3,11 +3,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>  
-<h3 align="center">A passionate Android Developer from Egypt!</h3>  
+<h3 align="center">Specialized Android App Developer | Kotlin & Java</h3>  
   
-- 🔭 I’m currently working on **Personal projects**  
+- 🔭 I’m currently working as **Freelancer - UpWork**  
   
-- 🌱 I’m currently learning **Compose & Problem-Solving**  
   
 - 📫 How to reach me **ibrahimezzat404@gmail.com**  
   
