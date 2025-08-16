@@ -5,16 +5,27 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>  
 <h3 align="center">Specialized Android App Developer | Kotlin & Java</h3>  
   
-- 🔭 I’m currently working as **Freelancer - UpWork**  
-  
-  
-- 📫 How to reach me **ibrahimezzat404@gmail.com**  
-  
-- ⚡ Fun fact **I'm talkative social person around the people I share interests with! I would love to connect with you as well!**  
-  
+- 🔭 I’m an **Android Developer** with 3+ years of experience building high-quality mobile apps using Kotlin and Java.
+
+- 🛠️ Experienced with **modern Android tools and practices** including Dependency Injection (Hilt/Koin), Clean Architecture, and Jetpack libraries — always focused on writing clean and maintainable code.  
+
+- 🚀 Currently exploring **Kotlin Multiplatform** to build cross-platform apps and expand my skillset beyond Android.  
+
+- 📫 Feel free to reach me at **ibrahimezzat404@gmail.com** — I’m always open to new opportunities and collaborations.  
+
+- 🌱 Outside of coding, I enjoy **learning, reading, and connecting with people who share similar interests in tech and innovation**.  
+
 ## Connect with me:
 <p align="left">  
-<a href="https://linkedin.com/in/ibrahim-ezzat-saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-ezzat-saad" height="30" width="40" /></a>  
+<a href="https://www.upwork.com/freelancers/~01d6bbaad0e4f9f7d1](https://www.upwork.com/freelancers/~0134fd4d1fbaa96590" target="blank">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="upwork" height="40" width="45" />
+</a>  
+  
+<a href="https://linkedin.com/in/ibrahim-ezzat-saad" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-ezzat-saad" height="30" width="40" />
+</a>  
+  
+
 </p>  
   
 ## Languages and Tools:
