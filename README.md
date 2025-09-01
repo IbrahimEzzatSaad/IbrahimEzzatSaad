@@ -17,7 +17,7 @@
 
 ## Connect with me:
 <p align="left">  
-<a href="https://www.upwork.com/freelancers/~01d6bbaad0e4f9f7d1](https://www.upwork.com/freelancers/~0134fd4d1fbaa96590" target="blank">
+<a href="https://www.upwork.com/freelancers/~0134fd4d1fbaa96590" target="blank">
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="upwork" height="40" width="45" />
 </a>  
   
